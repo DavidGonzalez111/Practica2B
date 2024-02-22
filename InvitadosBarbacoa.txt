@@ -1,3 +1,7 @@
 NuevoInvitado  
 -e "Juan\nPepe\nMar¡a y Luis" 
+<<<<<<< HEAD
 asdasda
+=======
+gokgopjk
+>>>>>>> 79f85c39cec4dac9631f8f01e5d601896a8a7153
